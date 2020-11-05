@@ -87,6 +87,16 @@
                         "code": "PT",
                         "name": "Portugal"
                     }
+                },
+                {
+                    "name": "FEUP",
+                    "address": "R. Dr. Roberto Frias, 4200-465 Porto",
+                    "latitude": 41.178470,
+                    "longitude": -8.598970,
+                    "country": {
+                        "code": "PT",
+                        "name": "Portugal"
+                    }
                 }
             ]
         }
