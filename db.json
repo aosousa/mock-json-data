@@ -210,8 +210,8 @@
     "transmission": [
         {
             "case_id": 1,
-            "given_name": "Smith",
-            "family_name": "John",
+            "family_name": "Smith",
+            "given_name": "John",
             "contacts": [
                 {
                     "contact_id": 1,
@@ -235,8 +235,8 @@
         },
         {
             "case_id": 7,
-            "given_name": "Santos",
-            "family_name": "Márcio",
+            "family_name": "Santos",
+            "given_name": "Márcio",
             "contacts": [
                 {
                     "contact_id": 6,
