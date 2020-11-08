@@ -153,6 +153,58 @@
             "last_update": "20/03/2020",
             "final_outcome": "RECOVERED",
             "closing_date": "15/03/2020"
+        },
+        {
+            "case_id": 3,
+            "family_name": "Smith",
+            "given_name": "Jane",
+            "document": {
+                "type": "passport",
+                "id": "PT0000001"
+            },
+            "gender": "M",
+            "birth_date": "01/01/1980",
+            "age": 40,
+            "nationality": "Canadian",
+            "phone": 123123123,
+            "email": "jane.smith@email.com",
+            "address": "Rua de Álvares Cabral, 202",
+            "latitude": 51.507351,
+            "longitude": -0.127758,
+            "health_facility": "Nevogilde Health Facility",
+            "date_of_attendance": "02/03/2020",
+            "symptoms_date_of_onset": "01/03/2020",
+            "lab_result_status": "DONE",
+            "case_status": "DISCHARGED",
+            "last_update": "20/03/2020",
+            "final_outcome": "RECOVERED",
+            "closing_date": "15/03/2020"
+        },
+        {
+            "case_id": 3,
+            "family_name": "Smith",
+            "given_name": "Jim",
+            "document": {
+                "type": "passport",
+                "id": "PT0000001"
+            },
+            "gender": "M",
+            "birth_date": "01/01/1995",
+            "age": 25,
+            "nationality": "Canadian",
+            "phone": 123123123,
+            "email": "jim.smith@email.com",
+            "address": "Rua de Álvares Cabral, 202",
+            "latitude": 51.507351,
+            "longitude": -0.127758,
+            "health_facility": "Nevogilde Health Facility",
+            "date_of_attendance": "02/03/2020",
+            "symptoms_date_of_onset": "01/03/2020",
+            "lab_result_status": "DONE",
+            "case_status": "SUSPECTED",
+            "last_update": "20/03/2020",
+            "final_outcome": "RECOVERED",
+            "closing_date": "15/03/2020"
         }
     ],
     "transmission": [
