@@ -106,16 +106,6 @@
                         "code": "PT",
                         "name": "Portugal"
                     }
-                },
-                {
-                    "name": "Mar Shopping",
-                    "address": "Av. Dr. Óscar Lopes, 4450-337 Leça da Palmeira",
-                    "latitude": 41.207939,
-                    "longitude": -8.689570,
-                    "country": {
-                        "code": "PT",
-                        "name": "Portugal"
-                    }
                 }
            ]
         },
@@ -127,31 +117,6 @@
                     "address": "Praceta Parque Nascente 35, 4435-182 Rio Tinto",
                     "latitude": 41.174110,
                     "longitude": -8.565350,
-                    "country": {
-                        "code": "PT",
-                        "name": "Portugal"
-                    }
-                },
-                {
-                    "name": "FEUP",
-                    "address": "R. Dr. Roberto Frias, 4200-465 Porto",
-                    "latitude": 41.178470,
-                    "longitude": -8.598970,
-                    "country": {
-                        "code": "PT",
-                        "name": "Portugal"
-                    }
-                }
-            ]
-        },
-        {
-            "case_id": 5,
-            "frequent_places": [
-                {
-                    "name": "FEUP",
-                    "address": " Av. Brasília, 1400-038 Lisboa",
-                    "latitude": 38.694672,
-                    "longitude": -9.206250,
                     "country": {
                         "code": "PT",
                         "name": "Portugal"
@@ -264,162 +229,6 @@
             "last_update": "20/03/2020",
             "final_outcome": "RECOVERED",
             "closing_date": "15/03/2020"
-        },
-        {
-            "case_id": 5,
-            "family_name": "Loureiro",
-            "given_name": "João",
-            "document": {
-                "type": "CITIZEN",
-                "id": "PT0000003"
-            },
-            "gender": "M",
-            "birth_date": "01/01/1964",
-            "age": 56,
-            "nationality": "Portuguese",
-            "phone": 103001444,
-            "email": "joao.loureiro@email.com",
-            "address": "Rua do Jardim, 9",
-            "latitude": 51.507351,
-            "longitude": -0.127758,
-            "health_facility": "Vermoim Health Facility",
-            "date_of_attendance": "04/03/2020",
-            "symptoms_date_of_onset": "02/03/2020",
-            "lab_result_status": "DONE",
-            "case_status": "DISCHARGED",
-            "last_update": "25/03/2020",
-            "final_outcome": "",
-            "closing_date": "25/03/2020"
-        },
-        {
-            "case_id": 6,
-            "family_name": "Loureiro",
-            "given_name": "Maria",
-            "document": {
-                "type": "CITIZEN",
-                "id": "PT0000004"
-            },
-            "gender": "F",
-            "birth_date": "01/01/1965",
-            "age": 55,
-            "nationality": "Portuguese",
-            "phone": 103001555,
-            "email": "maria.loureiro@email.com",
-            "address": "Rua do Cruzeiro, 15",
-            "latitude": 51.507351,
-            "longitude": -0.127758,
-            "health_facility": "Maia Health Facility",
-            "date_of_attendance": "04/03/2020",
-            "symptoms_date_of_onset": "02/03/2020",
-            "lab_result_status": "DONE",
-            "case_status": "DISCHARGED",
-            "last_update": "25/03/2020",
-            "final_outcome": "",
-            "closing_date": "25/03/2020"
-        },
-        {
-            "case_id": 7,
-            "family_name": "Santos",
-            "given_name": "Márcio",
-            "document": {
-                "type": "PASSPORT",
-                "id": "BR0000001"
-            },
-            "gender": "M",
-            "birth_date": "01/01/1966",
-            "age": 54,
-            "nationality": "Brasilian",
-            "phone": 105001667,
-            "email": "marcio.santos@email.com",
-            "address": "Rua Mimosas, 76",
-            "latitude": 51.507351,
-            "longitude": -0.127758,
-            "health_facility": "Vilar de Andorinho Health Facility",
-            "date_of_attendance": "05/03/2020",
-            "symptoms_date_of_onset": "03/03/2020",
-            "lab_result_status": "DONE",
-            "case_status": "CONFIRMED",
-            "last_update": "12/04/2020",
-            "final_outcome": "RECOVERED",
-            "closing_date": "25/03/2020"
-        },
-        {
-            "case_id": 8,
-            "family_name": "Santos",
-            "given_name": "Fernanda",
-            "document": {
-                "type": "PASSPORT",
-                "id": "BR0000002"
-            },
-            "gender": "f",
-            "birth_date": "01/01/1967",
-            "age": 53,
-            "nationality": "Brazilian",
-            "phone": 106001778,
-            "email": "fernanda.santos@email.com",
-            "address": "Rua Fonseca, 33",
-            "latitude": 51.507351,
-            "longitude": -0.127758,
-            "health_facility": "Valadares Health Facility",
-            "date_of_attendance": "05/03/2020",
-            "symptoms_date_of_onset": "03/03/2020",
-            "lab_result_status": "DONE",
-            "case_status": "DISCHARGED",
-            "last_update": "25/03/2020",
-            "final_outcome": "",
-            "closing_date": "25/03/2020"
-        },
-        {
-            "case_id": 9,
-            "family_name": "Goodman",
-            "given_name": "Joseph",
-            "document": {
-                "type": "PASSPORT",
-                "id": "US0000003"
-            },
-            "gender": "M",
-            "birth_date": "01/01/1968",
-            "age": 52,
-            "nationality": "American",
-            "phone": 107001989,
-            "email": "joseph.goodman@email.com",
-            "address": "Rua Sarah Afonso, 76",
-            "latitude": 51.507351,
-            "longitude": -0.127758,
-            "health_facility": "Ramalde Health Facility",
-            "date_of_attendance": "06/03/2020",
-            "symptoms_date_of_onset": "04/03/2020",
-            "lab_result_status": "DONE",
-            "case_status": "CONFIRMED",
-            "last_update": "27/03/2020",
-            "final_outcome": "DIED",
-            "closing_date": "27/03/2020"
-        },
-        {
-            "case_id": 10,
-            "family_name": "Silver",
-            "given_name": "Cristine",
-            "document": {
-                "type": "PASSPORT",
-                "id": "US0000004"
-            },
-            "gender": "F",
-            "birth_date": "01/01/1969",
-            "age": 51,
-            "nationality": "American",
-            "phone": 108001667,
-            "email": "cristine.silver@email.com",
-            "address": "Rua Marta Ferreira, 10",
-            "latitude": 51.507351,
-            "longitude": -0.127758,
-            "health_facility": "Paranhos Health Facility",
-            "date_of_attendance": "07/04/2020",
-            "symptoms_date_of_onset": "05/04/2020",
-            "lab_result_status": "WAITING",
-            "case_status": "PROBABLE",
-            "last_update": "12/04/2020",
-            "final_outcome": "",
-            "closing_date": ""
         }
     ],
     "transmission": [
@@ -476,19 +285,6 @@
                     "contact_id": 8,
                     "family_name": "Goodman",
                     "given_name": "Leonard",
-                    "relationship": "Parent"
-                }
-            ]
-        },
-        {
-            "case_id": 10,
-            "family_name": "Silver",
-            "given_name": "Cristine",
-            "contacts": [
-                {
-                    "contact_id": 11,
-                    "family_name": "Silver",
-                    "given_name": "John",
                     "relationship": "Parent"
                 }
             ]
