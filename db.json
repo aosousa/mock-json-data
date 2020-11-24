@@ -1,7 +1,8 @@
 {
     "curve": {
         "datetime": "2020-11-07 17:28:10",
-        "total": 327
+        "total": 327,
+        "deaths": 10
     },
     "locations": [
         {
