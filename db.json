@@ -258,34 +258,34 @@
             ] 
         },
         {
-            "case_id": 7,
-            "family_name": "Santos",
-            "given_name": "Márcio",
-            "contacts": [
-                {
-                    "contact_id": 6,
-                    "family_name": "Santos",
-                    "given_name": "Luana",
-                    "relationship": "Parent"
-                }
-            ]
-        },
-        {
             "case_id": 9,
             "family_name": "Goodman",
             "given_name": "Joseph",
             "contacts": [
                 {
-                    "contact_id": 7,
-                    "family_name": "Goodman",
-                    "given_name": "Edith",
-                    "relationship": "Parent"
-                },
-                {
                     "contact_id": 8,
                     "family_name": "Goodman",
                     "given_name": "Leonard",
                     "relationship": "Parent"
+                }
+            ]
+        },
+        {
+            "case_id": 8,
+            "family_name": "Goodman",
+            "given_name": "Leonard",
+            "contacts": [
+                {
+                    "contact_id": 3,
+                    "family_name": "Smith",
+                    "given_name": "Linda",
+                    "relationship": "Other"
+                },
+                {
+                    "contact_id": 3,
+                    "family_name": "Smith",
+                    "given_name": "Linda",
+                    "relationship": "Other"
                 }
             ]
         }
